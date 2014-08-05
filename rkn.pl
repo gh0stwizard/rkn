@@ -30,7 +30,6 @@ my $OPENSSL_CMD = 'openssl';
 my $DATA_DIR = catdir(tmpdir(), 'rkn', 'data');
 my $SIGNER_CERT_FILE = 'certs.pem';
 my $KEY_FILE = 'key.pem';
-my $WSDL_URI = 'http://vigruzki.rkn.gov.ru/services/OperatorRequestTest/?wsdl';
 
 my $OPERATOR_NAME = 'test_operator';
 my $INN_NUMBER = 123456;
